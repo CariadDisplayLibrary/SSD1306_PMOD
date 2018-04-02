@@ -1,0 +1,3 @@
+SSD1306_PMOD.cpp libraries/DisplayCore/SSD1306_PMOD
+SSD1306_PMOD.h libraries/DisplayCore/SSD1306_PMOD
+examples libraries/DisplayCore/SSD1306_PMOD

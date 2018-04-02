@@ -1,0 +1,6 @@
+libdisplaycore-driver-ssd1306-pmod (2.0.0) uecide; urgency=low
+
+  * Initial import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 13:39:01 +0100
+
