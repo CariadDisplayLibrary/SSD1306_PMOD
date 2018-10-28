@@ -10,6 +10,7 @@ Section: main
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: OLED
 Depends: libdisplaycore-core, libdisplaycore-driver-ssd1306, libdspi-chipkit
 Provides: SSD1306-UL-PMOD.h
 Description: SSD1306 PMOD (DSPI) Interface
