@@ -1,3 +1,5 @@
-SSD1306_PMOD.cpp libraries/DisplayCore/SSD1306_PMOD
-SSD1306_PMOD.h libraries/DisplayCore/SSD1306_PMOD
 examples libraries/DisplayCore/SSD1306_PMOD
+library.json libraries/DisplayCore/SSD1306_PMOD
+library.properties libraries/DisplayCore/SSD1306_PMOD
+README.md libraries/DisplayCore/SSD1306_PMOD
+src libraries/DisplayCore/SSD1306_PMOD
