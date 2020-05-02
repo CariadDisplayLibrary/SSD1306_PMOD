@@ -30,7 +30,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 #include <SSD1306.h>
 #include <DSPI.h>
 
